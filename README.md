@@ -26,8 +26,8 @@ Users will be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Naveed89-tech/Crwod-Funding-Project]
-- Live Site URL: [https://crowdfundingproject.netlify.app/]
+- Solution URL: [https://github.com/Naveed89-tech/GridLayout-and-Animation]
+- Live Site URL: [https://gridlayoutanimation.netlify.app/]
 
 ## My process
 
@@ -36,13 +36,11 @@ Users will be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Tailwind
-- Flexbox
 - CSS Grid
-- Javascript
 
 ### Useful resources
 
-- [1](https://tailwindcss.com/docs/installation) - This helped me to remembered the very useful CSS concept and how i can use them with tailwind CSS reason. I really liked this pattern and will use it going forward.
+- [1](https://www.youtube.com/watch?v=yuzggllFaC0&t=3662s) - This helped me to remembered the very useful CSS concept and how i can use them with tailwind CSS reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
