@@ -40,7 +40,7 @@ Users will be able to:
 
 ### Useful resources
 
-- [1](https://www.youtube.com/watch?v=yuzggllFaC0&t=3662s) - This helped me to remembered the very useful CSS concept and how i can use them with tailwind CSS reason. I really liked this pattern and will use it going forward.
+- [https://www.youtube.com/watch?v=yuzggllFaC0&t=3662s] - This helped me to remembered the very useful CSS concept and how i can use them with tailwind CSS reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
